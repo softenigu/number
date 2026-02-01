@@ -1,0 +1,6 @@
+numpy
+pillow
+pymupdf
+scikit-learn
+matplotlib
+seaborn
